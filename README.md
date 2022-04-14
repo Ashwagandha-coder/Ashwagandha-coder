@@ -3,4 +3,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=I'm+Android+Developer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=write+code+on+Java+and+Kotlin)](https://git.io/typing-svg)
 
-[mocha.pdf](https://github.com/Ashwagandha-coder/Ashwagandha-coder/files/8491486/mocha.pdf)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[java].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[jeep].svg" />

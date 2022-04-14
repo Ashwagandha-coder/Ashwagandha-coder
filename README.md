@@ -3,5 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=I'm+Android+Developer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=write+code+on+Java+and+Kotlin)](https://git.io/typing-svg)
 
-"<img height="32" width="32" src="![docker](https://user-images.githubusercontent.com/58209188/163456735-e3bdc207-383e-4dcf-bd4d-7c8b35c16c44.svg)" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[jeep].svg" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=Stack_)](https://git.io/typing-svg)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)

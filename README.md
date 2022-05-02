@@ -2,4 +2,3 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=63F7AB&background=FA8CFF00&lines=I'm+Android+Developer)](https://git.io/typing-svg)
-

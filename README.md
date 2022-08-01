@@ -2,3 +2,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E7DF7&lines=I'am+developer)](https://git.io/typing-svg)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)

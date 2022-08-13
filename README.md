@@ -4,4 +4,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=42A8F7&lines=I'am+developer)](https://git.io/typing-svg)
 
 
-

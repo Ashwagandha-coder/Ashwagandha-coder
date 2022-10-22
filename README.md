@@ -1,5 +1,2 @@
-<h3 align="left">Hi 👋, I'm Ashwagandha-coder</h3>
-<h4 align="left">Write code on Kotlin and Scala</h4>
-
- 🔭 I’m currently working on **filmListApp**
+![новое лого для гита](https://user-images.githubusercontent.com/58209188/197325688-94d6b36e-0bef-402e-bedf-602e4e43e45c.png)
 

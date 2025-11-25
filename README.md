@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monserrat&weight=450&pause=175&color=F7F7F7&background=3F64FF00&width=435&lines=Android+Development;Kotlin;Java)](https://git.io/typing-svg)
 
+``` kotlin
 val Mukhamadeev = developer {
     about {
         name = "Danial Mukhamadeev"
@@ -12,4 +13,5 @@ val Mukhamadeev = developer {
         telegram = "@danial_mac"
     }
 }
+```
 
